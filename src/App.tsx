@@ -405,7 +405,7 @@ function HomePage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-center">
             <div className="flex items-center justify-center space-x-2">
               <Clock className="w-6 h-6 text-blue-600" />
-              <p className="text-sm">Updated: March 2025</p>
+              <p className="text-sm">Updated: February 2025</p>
             </div>
             <div className="flex items-center justify-center space-x-3">
               <Star className="w-6 h-6 text-blue-600" />
